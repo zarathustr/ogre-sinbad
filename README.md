@@ -23,3 +23,5 @@ export ANDROID_NDK_PLATFORM=android-27
 
 export PATH=/Users/zarathustra/Library/Android/sdk/ndk/23.1.7779620:/Library//Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/bin:/Users/zarathustra/Library/Android/sdk/tools:/Users/zarathustra/kalibr_ws/devel/lib:$PATH
 ```
+
+In the case that Ogre3D 1.9 uses the Apache-Ant for generation of the APK bundle, we require the JDK version of ```jdk1.8.0_202```.
