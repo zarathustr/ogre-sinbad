@@ -19,7 +19,7 @@ export JDK_ROOT=/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home
 export ANDROID_SDK_ROOT=/Users/zarathustra/Library/Android/sdk
 export ANDROID_NDK_PATH=/Users/zarathustra/Library/Android/sdk/ndk/23.1.7779620
 export ANDROID_NDK_ROOT=/Users/zarathustra/Library/Android/sdk/ndk/23.1.7779620
-export ANDROID_NDK_PLATFORM=android-27
+export ANDROID_NDK_PLATFORM=android-24
 
 export PATH=/Users/zarathustra/Library/Android/sdk/ndk/23.1.7779620:/Library//Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/bin:/Users/zarathustra/Library/Android/sdk/tools:/Users/zarathustra/kalibr_ws/devel/lib:$PATH
 ```
